@@ -6,7 +6,7 @@ public class BattleShip {
 	public static final int WATER_SYMBOL = 'O';
 	public static final int SUNK_SHIP_SYMBOL = 'X';
 	public static final int EMPTY_SYMBOL = '.';
-	
+	//this is a coment
 	public static final int NUM_SHIPS = 10;
 	public static final int DIMENSION = 8;	
 	static char[][] matrix = new char[DIMENSION][DIMENSION];
